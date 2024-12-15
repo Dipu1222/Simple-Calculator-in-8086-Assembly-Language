@@ -57,4 +57,17 @@ This is a **simple calculator** program written in **8086 Assembly Language** us
 Developed by **Dipu**.
 
 ---
+# Sample output
+# output 1
+![substract](https://github.com/user-attachments/assets/6c43bb75-76c4-421d-b7ad-a91013e39864)
+# output 2
+![factorial](https://github.com/user-attachments/assets/b03c9e47-45ee-401e-b2cb-8c6289728d15)
+# output 3
+![power](https://github.com/user-attachments/assets/1f7895ef-80c8-4bea-884c-d3703b259094)
+# output 4
+![division](https://github.com/user-attachments/assets/47ed123c-b9f6-42d4-a676-70dee1b5e308)
+
+
+
+
 
